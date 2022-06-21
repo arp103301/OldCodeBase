@@ -1,4 +1,4 @@
-package Z.com.anup.Concurrency;
+/*package Z.com.anup.Concurrency;
 
 //https://www.netjstech.com/2016/02/semaphore-in-java-concurrency.html
 
@@ -74,3 +74,4 @@ class MyThread4 extends Thread{
     }
   }
 }
+*/
